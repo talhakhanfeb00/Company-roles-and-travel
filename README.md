@@ -24,7 +24,7 @@ Perfect for HR teams, travel managers, or anyone interested in workforce mobilit
 - **Data** (Synthetic dataset generator included)
 - **Visualization** (Plotly, Tableau-ready outputs)
 
-# Note
+# Disclaimer
 All data is synthetic and it's not real. I generated it using faker in jupyter notebook.
 
 
