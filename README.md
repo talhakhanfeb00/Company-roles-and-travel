@@ -52,26 +52,7 @@ This repository contains structured datasets related to:
 
 ## ⚠️ Disclaimer
 **Important**:  
-1. **Confidentiality**:  
-   - Client/company data is sensitive. Never commit personally identifiable information (PII), API keys, or credentials.  
-   - Access is restricted to authorized personnel only.  
-
-2. **Legal Compliance**:  
-   - This dataset is for **internal use only** unless explicitly marked as public.  
-   - Competitor data must comply with [anti-trust laws](https://www.ftc.gov/) and avoid proprietary/trade-secret content.  
-
-3. **No Warranty**:  
-   - Data is provided "as-is" without guarantees of accuracy. Verify sources before use.  
-
-4. **Liability**:  
-   - Misuse or unauthorized distribution may result in legal action. By accessing this repository, you agree to adhere to company policies.  
-
----
-
-## 🛠️ Usage Guidelines
-```bash
-git clone https://github.com/your-repo/data-repository.git
-
+The data is generated from python and synthetic. Nothing is real in this data excpet company names, clients and competitors. Everything lese is randomized.
 
 
 
